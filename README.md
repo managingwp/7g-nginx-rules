@@ -19,3 +19,7 @@ To contribute rules to the repository, follow these steps:
 5. Send a pull request.
 
 Check out the existing examples for the recommended file and folder structure.
+
+# Contributers
+* Original Author: @@noamkfir Boundless-Zone/7g-nginx-rules
+* Contributers: @jordantrizz, @pbran
